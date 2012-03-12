@@ -9,7 +9,7 @@
 #import "MyFacebookPhotosAppDelegate.h"
 #import "MyFacebookPhotosViewController.h"
 
-#define FB_APP_ID @"39624508329"
+#define FB_APP_ID @"--your fb app id--"
 
 
 @implementation MyFacebookPhotosAppDelegate
